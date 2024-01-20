@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "676194603125",
+    "project_id": "multi-store-admin-allen-01",
+    "storage_bucket": "multi-store-admin-allen-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676194603125:android:89658afaa56c1770d3a83c",
+        "android_client_info": {
+          "package_name": "com.ARSO.multi_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQTZoQY3SQ5_vXstXhKSXVveGdv8F7ifo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
